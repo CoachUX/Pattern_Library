@@ -2,7 +2,7 @@
 This repository contains only tested and approved patterns used on COach.com
 
 ## In this repo
-* Agree Upload process for newness
+* [Agree Upload process for newness]
 * Owners and Admins
 * Files
 * Further Reading
