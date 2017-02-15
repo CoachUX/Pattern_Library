@@ -1,4 +1,7 @@
-# Pattern_Library
-Pattern Library Development
+# Coach.com Pattern_Library
+This repository contains only tested and approved patterns used on COach.com
 
-## Starting of the Pattern Library Styles for Coach
+*Files in this repo*
+*Sketch Files for designs
+
+*Axure File for POC
