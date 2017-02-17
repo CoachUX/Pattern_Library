@@ -1,24 +1,31 @@
-# Coach.com Pattern_Library
+# Coach.com Pattern Library
 This repository contains only tested and approved patterns used on Coach.com
 
-## In this repo
-* Agree Upload process for newness
-* Owners and Admins
-* Files
-* Further Reading
+## Getting Started
 
-#### Agree Upload process for newness
+### Software Requirements
+```
+You will need access to these on your machine to be able to update and view elements within the pattern library
+```
+* Sketch
+* Axure
+* Zeplin.io
 
-#### Owners, Admins & Editors
+## Deploying newness
+All new styles must be fully vetted by the governance team following the process documented below;
 
+Add flow in here
+
+## Owners, Admins & Editors
+```
+Below is the core governance group for the Coach.com Pattern Library
+```
 | Name | @ | Email | Status |
 | --- | --- | --- | --- |
 | David Boddy | @dboddy1 | dboddy@coach.com | Owner |
 | Sydney Fliorent | @sydney | sfliorent@coach.com | Admin |
 | Wendy Chan | @ | wchan@coach.com | Editor |
 
-#### Files
-* Sketch Files for designs
-* Axure File for POC
+### Further Reading
 
-#### Further Reading
+### Acknowledgments
