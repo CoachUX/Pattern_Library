@@ -13,9 +13,9 @@ You will need access to these on your machine to be able to update and view elem
 
 ## Deploying newness
 All new styles must be fully vetted by the governance team following the process documented below;
-
+```
 Visual Design  -->  Prototypes  -->  Pattern Validation  -->  Specification  -->  Release
-
+```
 ## Owners, Admins & Editors
 ```
 Below is the core governance group for the Coach.com Pattern Library
