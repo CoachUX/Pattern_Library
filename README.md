@@ -14,7 +14,7 @@ You will need access to these on your machine to be able to update and view elem
 ## Deploying newness
 All new styles must be fully vetted by the governance team following the process documented below;
 
-Add flow in here
+Visual Design  -->  Prototypes  -->  Pattern Validation  -->  Specification  -->  Release
 
 ## Owners, Admins & Editors
 ```
